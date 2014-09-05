@@ -15,3 +15,8 @@ The main topics are:
 But you are also more than welcome to join if you just want to hack on your favorite open source project or do something that doesn't fit into these categories.
 
 Please sign up on our [Google+ event page](https://plus.google.com/events/cb9g72bhpd89nrmksjrn9a5msok)!
+
+
+## Projects
+
+If you already know what you want to be working on during the event please add your project to the [Projects wiki page](https://github.com/gdg-android-in-berlin/GlobalAndroidDevCamp2014/wiki/Projects).
